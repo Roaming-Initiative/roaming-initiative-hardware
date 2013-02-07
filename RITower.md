@@ -19,6 +19,7 @@ Total price of these components at the time of this writing, from the sources gi
  * [Ubiquiti Nanostation Locos](http://www.ubnt.com/nanostationloco), as many as desired.
  * Multiple 1-2 ft CAT6 patch cables, booted.
  * Extension cord, if necessary.
+ * Additional band clamps, if necessary (probably a good idea, and a necessity if your hardware doesn't ship with them)
 
 ## Software setup
 
