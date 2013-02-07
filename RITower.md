@@ -1,74 +1,41 @@
 # RITower
 
-This is the main device for creating a mesh backbone that connects devices over long distance, and contains its own UPS for resistance to utility failure.
+This is the main device for creating a mesh backbone that connects devices over long distance, and contains an optional UPS for resistance to utility failure.
 
-The RITower design is a simple aluminum pole, of variable height, with specific components at the top and bottom. These are respectively known as the head and base areas.
+## Shopping list
 
-## Head
+### Required
 
-The head contains all IP infrastructure. It is powered by an extension cord of suitable length that terminates in a power strip with 5+ outlets.
+ * [Aluminum flag pole, such as this one.](http://www.harborfreight.com/20-ft-telescoping-flag-pole-kit-95598.html)
+ * [OmniTIK UPA-5HnD wireless omnidirectional router.](http://www.rts-bg.com/product.php?id_product=160)
+ * [35-ft CAT6 patch cable, booted](http://www.computercablestore.com/CAT6_Certified_Booted_Net_PID23158.aspx) (This is a minimum size, feel free to go higher if your situation requires).
 
-### WiMax Basestations
+Total price of these components at the time of this writing, from the sources given: $72.39 + Price of OmniTIK (which you'll probably need to buy via eBay). You can expect to pay around $30 for that, so the whole thing costs about $100.
 
- * Preferred brand TBD.
- * Enough to provide omnidirectional coverage.
- * Weatherproof.
- * Connected to switchbox via CAT6.
- * Each runs its own instance of CJDNS.
+### Optional
 
-### Omnidirectional WiFi router
+ * UPS, any type designed for 120v plugs.
+ * Fiber relay hardware (TBD)
+ * [Ubiquiti Nanostation Locos](http://www.ubnt.com/nanostationloco), as many as desired.
+ * Multiple 1-2 ft CAT6 patch cables, booted.
+ * Extension cord, if necessary.
 
- * Preferred brand TBD.
- * Provides WiFi access point or ad hoc coverage for consumer mesh hardware.
- * Weatherproof.
- * Connected to switchbox via CAT6.
- * Runs its own instance of CJDNS.
+## Software setup
 
-### Switchbox
+TODO: instructions for downloading and flashing ADRIS-T on OmniTIK router.
 
- * Sealed tupperware container, which holds high-speed switch and power strip.
- * For ethernet and power cables, holes should be drilled, and the cables sealed in airtight with silicone.
+## Hardware setup
 
-### Switch
+### Setting up flagpole
 
- * 4+ ports, depending on how many WiMax devices are being used.
- * Connects all WiMax devices and WiFi router together, filtering communication such that each device only gets traffic to or from its IP addr.
+TODO: Write how to install flagpole in stable fashion
 
-### Power Strip
+### Setting up router
 
- * Connects to the end of the extension cord.
- * Should have an outlet for every device: router, switch, and one per basestation.
+TODO: Write how to attach router to pole
 
-## Pole
+### Hooking up to the ground
 
- * Method of attaching devices and switchbox to pole TBD.
+Use the long CAT6 cable to run down from the router to the ground. Plug in POE (Power Over Ethernet) doohicky on the free end, and plug *that* into a nearby outlet, using an extension cord if necessary.
 
-## Base
-
-Has a UPS for utility failure resistance.
-
-### UPS
-
- * Any brand acceptable.
- * Accepts and delivers AC power.
- * Supplies extension cord that runs up the pole.
- * May be ommitted for non-critical or test stations. Should be used for real infrastructure.
- * Protect from elements with industrial pallet below, and a tarp on top, bungie-tied to the pallet.
-
-### Attachment to the ground
-
- * Should either be with 2ft of concrete, or wide flat base.
- * To set up with concrete:
-    * Dig hole 6-12 inches in diameter.
-    * Place small brick at the bottom.
-    * Put pole on top of that.
-    * Stabilize and level pole.
-    * Pour quick-setting concrete mix into the hole around the pole, leaving about 2 inches free at the top.
-    * Pour in water, use stick or rebar to mix and tamp concrete.
-    * Repeat the last two steps for the final 2 inches.
-    * Allow dry time according to concrete mix instructions. Expect at least one day before treating the pole as stable.
- * For mobile base:
-    * Find large piece of plywood, plastic, or metal.
-    * Bolt it together with the pole using large L-brackets.
-    * Weigh down with rocks/chunks of concrete.
-    * This method is fast and mobile, but also at much higher risk of wind damage.
+You can now test your tower via WiFi with a laptop or other mobile device, or via the ethernet plug exposed by the POE adapter and a small patch cable.
