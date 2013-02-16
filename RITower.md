@@ -33,7 +33,7 @@ TODO: instructions for downloading and flashing ADRIS-T on OmniTIK router.
 
 ### Setting up flagpole
 
-Multiple options are available for setting up a flagpole such as the one listed above. You can either pound the included mounting tube into the ground & set the flagpole into that, or you could band clamp it to a fence or secure it to a roof.
+Multiple options are available for setting up a flagpole such as the one listed above. In terms of mounting the pole, you can either pound the included mounting tube into the ground & set the flagpole into that, or you can band clamp it to a fence or secure it to a roof. Note that once this particular pole is locked & extended and has been exposed to the elements for a few weeks, it is unlikely to twist down & telescope properly. Luckily, the pole itself is only 8.1lbs, and the omnitik adds on another pound or so, so when you need to take it down just bring an extra person to help you with it, and it should be fairly easy to do even though the flagpole won't telescope.
 
 ### Setting up router
 
