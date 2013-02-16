@@ -14,11 +14,15 @@ Total price of these components at the time of this writing, from the sources gi
 
 ### Optional
 
+#### Recommended
  * UPS, any type designed for 120v plugs.
- * Fiber relay hardware (TBD)
- * [Arc Wireless FreeStations](http://www.antennas.com/freestation/) or [Ubiquiti Nanostation Locos](http://www.ubnt.com/nanostationloco), as many as desired.
  * Multiple 1-2 ft CAT6 patch cables, preferably pre-crimped.
  * Extension cord, if necessary.
+
+
+#### Handy to have
+ * Fiber relay hardware (TBD)
+ * [Arc Wireless FreeStations](http://www.antennas.com/freestation/) or [Ubiquiti Nanostation Locos](http://www.ubnt.com/nanostationloco), as many as desired.
  * Additional band clamps, if necessary (probably a good idea, and a necessity if your hardware doesn't ship with them)
 
 ## Software setup
@@ -43,6 +47,6 @@ You can now test your tower via 5ghz WiFi with a laptop or other mobile device, 
 
 ## Hardware Modifications
 
-### DIY POE out
+### Omnitik DIY POE out
 
-With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. TODO: import the appropriate pictures of this process.
+With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](http://www.flickr.com/photos/h2non/sets/72157627860401917/) & try it yourself.
