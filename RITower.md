@@ -1,6 +1,6 @@
 # RITower
 
-This is the main device for creating a mesh backbone that connects devices over long distance, and contains an optional UPS for resistance to utility failure.
+A Roaming Initiative Tower is a compilation of hardwarethat you can use to create a mesh backbone, it will connect devices over long distance, and can contain a UPS for resistance to utility failure.
 
 ## Shopping list
 
