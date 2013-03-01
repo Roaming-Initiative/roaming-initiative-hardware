@@ -1,6 +1,6 @@
 # RITower
 
-This is the main device for creating a mesh backbone that connects devices over long distance, and contains an optional UPS for resistance to utility failure.
+A Roaming Initiative Tower is a compilation of hardware that you can use to create a mesh backbone, it will connect devices over long distance, and can contain a UPS for resistance to utility failure.
 
 ## Shopping list
 
@@ -15,7 +15,7 @@ Total price of these components at the time of this writing, from the sources gi
 ### Optional
 
 #### Recommended
- * UPS, any type designed for 120v plugs.
+ * UPS, any type designed for outputting 120v AC, or any UPS capable of putting out between 12v to 24v DC for more efficient Power Over Ethernet to your radios.
  * Multiple 1-2 ft CAT6 patch cables, preferably pre-crimped.
  * Extension cord, if necessary.
 
