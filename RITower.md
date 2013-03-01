@@ -15,7 +15,7 @@ Total price of these components at the time of this writing, from the sources gi
 ### Optional
 
 #### Recommended
- * UPS, any type designed for 120v plugs, or any UPS capable of putting out between 12v to 24v (most wireless hardware supports that range of voltage for Power over Ethernet).
+ * UPS, any type designed for outputting 120v AC, or any UPS capable of putting out between 12v to 24v DC for more efficient Power Over Ethernet to your radios.
  * Multiple 1-2 ft CAT6 patch cables, preferably pre-crimped.
  * Extension cord, if necessary.
 
