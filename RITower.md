@@ -35,7 +35,7 @@ TODO: instructions for downloading and flashing ADRIS-T on OmniTIK router.
 
 Multiple options are available for setting up a flagpole such as the one listed above. In terms of mounting the pole, you can either pound the included mounting tube into the ground & set the flagpole into that, or you can band clamp it to a fence or secure it to a roof. Note that once this particular pole is locked & extended and has been exposed to the elements for a few weeks, it is unlikely to twist down & telescope properly. Luckily, the pole itself is only 8.1lbs, and the omnitik adds on another pound or so, so when you need to take it down just bring an extra person to help you with it, and it should be fairly easy to do even though the flagpole won't telescope.
 
-### Setting up router
+### Setting up the router
 
 The Omnitik includes a band clamp & mounting bracket for poles & other cylindrical objects. Just mount the Omnitik to the pole using the included parts, as they work well for the task & are compatible with the pole. Make sure to skip mounting the included brass ball on the top of thepole, as it blocks other radios from seeing a good chunk of the Omnitik's antenna.
 
@@ -45,8 +45,3 @@ Use the long CAT6 cable to run down from the router to the ground. Plug in the P
 
 You can now test your tower via 5ghz WiFi with a laptop or other mobile device, or by plugging in to the Omnitik using the tail end of the POE injector. 
 
-## Hardware Modifications
-
-### Omnitik DIY POE out
-
-With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](http://www.flickr.com/photos/h2non/sets/72157627860401917/) & try it yourself.
