@@ -50,3 +50,5 @@ You can now test your tower via 5ghz WiFi with a laptop or other mobile device, 
 ### Omnitik DIY POE out
 
 With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](http://www.flickr.com/photos/h2non/sets/72157627860401917/) & try it yourself.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Roaming Initiative Hardware Guide</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Roaming-Initiative/roaming-initiative-hardware" rel="dct:source">https://github.com/Roaming-Initiative/roaming-initiative-hardware</a>.
