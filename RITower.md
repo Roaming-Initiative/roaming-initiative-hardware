@@ -6,8 +6,8 @@ A Roaming Initiative Tower is a compilation of hardware that you can use to crea
 
 ### Required
 
- * [Aluminum flag pole, such as this one.](http://www.harborfreight.com/20-ft-telescoping-flag-pole-kit-95598.html)
- * [OmniTIK UPA-5HnD wireless omnidirectional router.](http://www.rts-bg.com/product.php?id_product=160)
+ * [Aluminum flag pole or mast](http://www.harborfreight.com/20-ft-telescoping-flag-pole-kit-95598.html)
+ * [OmniTIK U-5HnD wireless omnidirectional router](Omnitik.md)
  * [35-ft CAT6 patch cable, pre-crimped](http://www.computercablestore.com/CAT6_Certified_Booted_Net_PID23158.aspx) (This is a minimum size, feel free to go higher if your situation requires).
 
 Total price of these components at the time of this writing, from the sources given: $72.39 + Price of OmniTIK (which you'll probably need to buy via eBay). You can expect to pay around $30 for that, so the whole thing costs about $100.
