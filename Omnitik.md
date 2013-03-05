@@ -14,7 +14,7 @@ Your average Omnitik comes with RouterOS v6, which is based on the Linux kernel 
 
 ###Omnitik DIY POE out
 
-With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](http://www.flickr.com/photos/h2non/sets/72157627860401917/) & try it yourself.
+With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](/Contrib/Tomás Aparicio/) & try it yourself.
 
 ##Relevant Links
 
