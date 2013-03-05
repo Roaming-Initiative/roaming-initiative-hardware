@@ -1,6 +1,6 @@
 #Omnitik
 
-TODO: Determine what this document should cover.
+An Omnitik is a radio with an integrated router and antenna made by MikroTik, it is weatherproof and has generally good coverage and power. Omnitiks can be had for around $30 on eBay or in group buys. 
 
 ##Hardware
 
@@ -10,8 +10,12 @@ The base model Omnitik includes 5 10/100mbps ethernet ports, and a MiMo 2x2 802.
 
 Your average Omnitik comes with RouterOS v6, which is based on the Linux kernel and a mess of other utilities. OpenWRT and DD-WRT are not supported on the Omnitik yet, although it should be possible to support this platform.
 
-## Hardware Modifications
+##Modifications
 
-### Omnitik DIY POE out
+###Omnitik DIY POE out
 
 With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](http://www.flickr.com/photos/h2non/sets/72157627860401917/) & try it yourself.
+
+##Relevant Links
+
+[Manufacturer Page](http://routerboard.com/RBOmniTikU-5HnD)
