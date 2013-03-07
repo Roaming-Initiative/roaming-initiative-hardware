@@ -1,6 +1,6 @@
 #Omnitik
 
-An Omnitik is a radio with an integrated router and antenna made by MikroTik, it is weatherproof and has generally good coverage and power. Omnitiks can be had for around $30 on eBay or in group buys. 
+An Omnitik is a radio with an integrated router and antenna made by MikroTik, it is weatherproof and preforms well. Omnitiks can be had for around $30 on eBay or in group buys. 
 
 ##Hardware
 
@@ -8,7 +8,7 @@ The base model Omnitik includes 5 10/100mbps ethernet ports, and a MiMo 2x2 802.
 
 ##Software
 
-Your average Omnitik comes with RouterOS v6, which is based on the Linux kernel and a mess of other utilities. OpenWRT and DD-WRT are not supported on the Omnitik yet, although it should be possible to support this platform.
+Omnitiks come with RouterOS v6, which is a custom made firmware based on the Linux kernel and mix of other utilities. OpenWRT and DD-WRT are not supported on the Omnitik yet, although it should be possible to support this platform.
 
 ##Modifications
 
